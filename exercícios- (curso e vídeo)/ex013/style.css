@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(15, 18, 19);
+    font-size: arial;
+}
+h1 {
+    color: rgb(31, 31, 109);
+}
+h2{
+    color: rgb(103, 103, 160);
+}
+p {
+    text-align: justify; color: blanchedalmond;
+}

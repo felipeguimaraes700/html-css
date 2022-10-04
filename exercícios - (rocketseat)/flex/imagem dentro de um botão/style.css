@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    width: 20px;
+    height: 20px;
+}
+
+.button{
+    display:flex;
+    gap: 4rem;
+    margin: 10px;
+}
+
+.compra{
+    background: linear-gradient(to right, rgb(228, 157, 4), rgb(255, 15, 195));   
+    padding: 10px;
+    border-radius: 10px; 
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 18px;
+    cursor: pointer;
+}
