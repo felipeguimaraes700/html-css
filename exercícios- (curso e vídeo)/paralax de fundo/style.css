@@ -43,7 +43,7 @@ section{
     font-family: var(--fonte3);
 }
 .box{
-    background-color: rgba(0, 0, 0, 0.281);
+    background-color: rgba(219, 219, 219, 0.151);
     padding: 20px;
     border-radius: 10px;
 }
@@ -54,5 +54,16 @@ section{
 .imagem{
     background-color: rgb(100, 100, 100);
     color: white;
+    box-shadow: inset 0px 0px 20px 0px rgba(255, 255, 255, 0.507);
+    background-attachment: fixed;
 }
 
+#img01{
+    background-image: url(imagens/matrix-roxo.jpg);
+    background-size: cover;
+}
+
+#img02{
+    background-image: url(imagens/ps.jpg);
+    background-size: cover;
+}
